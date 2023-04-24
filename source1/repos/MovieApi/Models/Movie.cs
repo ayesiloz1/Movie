@@ -1,6 +1,6 @@
 namespace MovieApi.Models {
 
-    public class Movie {
+    public class Movie1 {
 
         public string Name {get;set;}
 
