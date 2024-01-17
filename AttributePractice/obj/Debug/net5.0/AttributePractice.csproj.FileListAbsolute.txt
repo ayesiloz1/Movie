@@ -1,0 +1,16 @@
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\AttributePractice.csproj.AssemblyReference.cache
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\AttributePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\AttributePractice.AssemblyInfoInputs.cache
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\AttributePractice.AssemblyInfo.cs
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\AttributePractice.csproj.CoreCompileInputs.cache
+C:\Users\agitm\AttributePractice\bin\Debug\net5.0\AttributePractice.exe
+C:\Users\agitm\AttributePractice\bin\Debug\net5.0\AttributePractice.deps.json
+C:\Users\agitm\AttributePractice\bin\Debug\net5.0\AttributePractice.runtimeconfig.json
+C:\Users\agitm\AttributePractice\bin\Debug\net5.0\AttributePractice.runtimeconfig.dev.json
+C:\Users\agitm\AttributePractice\bin\Debug\net5.0\AttributePractice.dll
+C:\Users\agitm\AttributePractice\bin\Debug\net5.0\ref\AttributePractice.dll
+C:\Users\agitm\AttributePractice\bin\Debug\net5.0\AttributePractice.pdb
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\AttributePractice.dll
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\ref\AttributePractice.dll
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\AttributePractice.pdb
+C:\Users\agitm\AttributePractice\obj\Debug\net5.0\AttributePractice.genruntimeconfig.cache
